@@ -8,3 +8,5 @@ You can easily download the LocationNet model from the MXNet Model Zoo. Follow t
 
 ## Further Reading
 For more insights into LocationNet and its implementation, visit the article on the AWS Machine Learning Blog: [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2/).
+
+Working note is available [here](https://www.dropbox.com/s/x3qxgvpl9feckbs/LocationNet.pdf?dl=0).
